@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Lê Minh Việt Anh",
+        "gender": "Nam",
+        "school": "Đại học Bách Khoa Hà Nội",
+        "email": ""
+    },
+    {
+        "name": "Phạm Quang Bách",
+        "gender": "Nam",
+        "school": "VinUniversity",
+        "email": ""
+    },
+    {
+        "name": "Hoàng Bá Bảo",
+        "gender": "Nam",
+        "school": "Đại học Bách Khoa Hà Nội",
+        "email": ""
+    },
+    {
+        "name": "Phạm Minh Cường",
+        "gender": "Nam",
+        "school": "Đại học Công nghệ - Đại học Quốc gia Hà Nội",
+        "email": ""
+    },
+    {
+        "name": "Trương Văn Độ",
+        "gender": "Nam",
+        "school": "Đại học Công nghệ - Đại học Quốc gia Hà Nội",
+        "email": ""
+    },
+    {
+        "name": "Hoàng Việt Dũng",
+        "gender": "Nam",
+        "school": "ITMO University",
+        "email": ""
+    }
+]
